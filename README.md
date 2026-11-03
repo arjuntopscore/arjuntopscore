@@ -43,9 +43,39 @@ Current Focus: Enterprise educational ERP systems & cross-platform mobile soluti
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D rainbow GitHub contribution graph" width="100%" />
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="./dist/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-**A year of commits, rendered in 3D.**
+<br/>
+
+<!-- 3D Contribution Graph with Dark/Light Support -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+  <img alt="3D GitHub Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+<p align="center">
+  <sub>✨ <b>A year of commits rendered in isometric 3D & interactive animations</b> ✨</sub>
+</p>
+
+<details>
+<summary><b>🔍 Click to preview alternative 3D views & themes</b></summary>
+<br/>
+
+| **🍃 Seasonal Cycle (Animated)** | **🟢 Isometric Emerald (Animated)** |
+|:---:|:---:|
+| <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" /> | <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" /> |
+
+| **🌌 Midnight Skyline View** | **🧱 Git Block Theme** |
+|:---:|:---:|
+| <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" /> | <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" /> |
+
+</details>
 
 </div>
 
