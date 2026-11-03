@@ -1,67 +1,66 @@
+# 🌈 Hey, I'm Arjun!
 
-<div align="center">
+### Full Stack Developer · .NET & Flutter Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Hey,%20I'm%20Arjun!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Flutter&descAlignY=58&descSize=18" width="100%" alt="Colorful header banner" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Building+apps+with+.NET+%26+Flutter;Turning+ideas+into+working+software;Always+learning%2C+always+creating)](https://github.com/arjuntopscore)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=arjuntopscore&label=Profile%20Views&color=9B5DE5&style=for-the-badge)](https://github.com/arjuntopscore)
-
-</div>
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ---
 
-## ✨ A little about me
+## ✨ About me
 
-I'm a developer who enjoys building across the stack—from responsive interfaces to backend services. My current focus is **.NET and Flutter**, and I’m exploring **system design and software architecture**.
+I enjoy building software across the stack—from mobile apps to web platforms and APIs. I work with **.NET, C#, Flutter, and Dart**, and I’m learning more about **system design and architecture**.
 
-- 🔭 Building full-stack projects with **.NET** and **Flutter**
-- 🌱 Learning more about **system design and architecture**
+- 🔭 Building full-stack projects with .NET and Flutter
+- 🌱 Exploring system design and software architecture
 - 🤝 Open to collaborating on interesting projects
-- 💬 Happy to talk about **C#, Dart, Flutter, .NET, and web development**
+- 💬 Ask me about C#, Dart, Flutter, .NET, and web development
 
 ---
 
-## 🧰 Tools I work with
+## 🚀 Projects
 
-<div align="center">
+### 🛍️ [Vintage Factory](https://github.com/arjuntopscore/Vintage-Factory)
+A full-stack e-commerce platform with a storefront, admin dashboard, product management, and checkout.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dart,js,dotnet,flutter,react,sqlserver,git,docker&perline=5)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🚀 Featured project
+**Next.js · React · Express · MongoDB · Tailwind CSS**
 
 ### 🎵 [Musicify](https://github.com/arjuntopscore/muicfy)
-
 A Flutter music player with background playback, playlists, library search, and a polished listening experience.
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+**Flutter · Dart · just_audio**
+
+### 🎧 [JioSaavn API 2](https://github.com/arjuntopscore/jiosaavn-api2)
+A JioSaavn API project.
+
+**TypeScript**
 
 ---
 
-## 📊 GitHub at a glance
+## 🧰 Technologies
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arjuntopscore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5DE5&icon_color=00D4FF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuntopscore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5DE5" alt="Most used languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuntopscore&theme=tokyonight&hide_border=true&background=0D1117&ring=9B5DE5&fire=00D4FF&currStreakLabel=9B5DE5" alt="GitHub contribution streak" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-<div align="center">
+## 🤝 Find me on GitHub
 
-**Thanks for stopping by!** 🌈
+Explore [my repositories](https://github.com/arjuntopscore?tab=repositories) and projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=100&section=footer" width="100%" alt="Colorful footer banner" />
+---
 
-</div>
+<p align="center">
+  <b>Thanks for stopping by! ✨</b>
+</p>
