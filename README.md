@@ -77,6 +77,22 @@ Current Focus: Enterprise educational ERP systems & cross-platform mobile soluti
 
 </details>
 
+<br/>
+
+<!-- Verified Multi-Stack Distribution -->
+<div align="center">
+
+### 📊 Full Stack Language & Technology Distribution
+
+| Language / Framework | Ecosystem | Primary Focus & Modules | Contribution Weight |
+|:---|:---|:---|:---:|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) **C# / .NET** | Enterprise Backend | ASP.NET MVC 5, Web API 2, Entity Framework 6, Gate Pass, HPC Reports, Clean Architecture | `████████████████████` **45%** |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) **Flutter / Dart** | Cross-Platform Mobile | Provider, GetIt, Native Fee Payments, Homework Engine, Principal Dashboard | `█████████████` **30%** |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript / React** | Modern Web Apps | Type-safe state management, React components, REST APIs | `██████` **15%** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript / UI** | Frontend & Web UI | jQuery, Bootstrap 5, Razor Views, Dynamic DOM Manipulation | `████` **10%** |
+
+</div>
+
 </div>
 
 ---
