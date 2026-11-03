@@ -1,68 +1,67 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Full Stack Developer | .NET & Flutter Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/arjuntopscore">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;.NET+Developer;Flutter+Developer;Always+learning+and+building!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arjuntopscore">
-    <img src="https://komarev.com/ghpvc/?username=arjuntopscore&label=Profile%20Views&color=0e75b6&style=flat" alt="arjuntopscore" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Full Stack Development with .NET and Flutter**
-- 🌱 I’m currently learning **Advanced System Design and Architecture**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **.NET, C#, Flutter, Dart, and Web Technologies**
-- 📫 How to reach me: **[Add your email/LinkedIn here]**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <br>
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <br>
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjuntopscore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arjun's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuntopscore&theme=tokyonight&hide_border=true" alt="Arjun's GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuntopscore&layout=compact&theme=tokyonight&hide_border=true" alt="Arjun's Top Languages" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Hey,%20I'm%20Arjun!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Flutter&descAlignY=58&descSize=18" width="100%" alt="Colorful header banner" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Building+apps+with+.NET+%26+Flutter;Turning+ideas+into+working+software;Always+learning%2C+always+creating)](https://github.com/arjuntopscore)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=arjuntopscore&label=Profile%20Views&color=9B5DE5&style=for-the-badge)](https://github.com/arjuntopscore)
+
 </div>
 
 ---
 
-### 🤝 Connect with Me
+## ✨ A little about me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
+I'm a developer who enjoys building across the stack—from responsive interfaces to backend services. My current focus is **.NET and Flutter**, and I’m exploring **system design and software architecture**.
+
+- 🔭 Building full-stack projects with **.NET** and **Flutter**
+- 🌱 Learning more about **system design and architecture**
+- 🤝 Open to collaborating on interesting projects
+- 💬 Happy to talk about **C#, Dart, Flutter, .NET, and web development**
+
+---
+
+## 🧰 Tools I work with
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dart,js,dotnet,flutter,react,sqlserver,git,docker&perline=5)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Featured project
+
+### 🎵 [Musicify](https://github.com/arjuntopscore/muicfy)
+
+A Flutter music player with background playback, playlists, library search, and a polished listening experience.
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+
+---
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arjuntopscore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5DE5&icon_color=00D4FF" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuntopscore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B5DE5" alt="Most used languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjuntopscore&theme=tokyonight&hide_border=true&background=0D1117&ring=9B5DE5&fire=00D4FF&currStreakLabel=9B5DE5" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!** 🌈
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=100&section=footer" width="100%" alt="Colorful footer banner" />
+
+</div>
