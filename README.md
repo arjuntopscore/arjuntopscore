@@ -39,18 +39,29 @@ Current Focus: Enterprise educational ERP systems & cross-platform mobile soluti
 
 ---
 
-## 🧊 Contribution Activity
+## 🧊 Interactive Contribution Timeline
 
 <div align="center">
 
-<!-- Animated Contribution Snake -->
+### 🐍 The Commit Eater · Live Contribution Calendar
+> 💡 **What is this?** This retro arcade animation turns my live GitHub contribution matrix into a game board. Every square represents a day of the year, with green dots indicating code commits and repository activity. The animated snake dynamically navigates the timeline, "eating" each day's contributions as it moves!
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake.svg?v=2">
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake.svg?v=2" width="100%" />
 </picture>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Grid-365_Days-10B981?style=flat-square&logo=github&logoColor=white" alt="365 Days"/>
+  <img src="https://img.shields.io/badge/Activity-Live_Commits-4F46E5?style=flat-square" alt="Live Commits"/>
+  <img src="https://img.shields.io/badge/Style-Retro_Arcade-F59E0B?style=flat-square" alt="Retro Arcade"/>
+</p>
+
 <br/>
+
+### 🏙️ 3D Contribution Skyline (52-Week Isometric View)
+> 💡 **What is this?** An isometric 3D architectural rendering of the past 12 months. The height and color intensity of each 3D pillar represent the volume of commits, code reviews, and releases shipped on that day.
 
 <!-- 3D Contribution Graph with Dark/Light Support -->
 <picture>
@@ -60,7 +71,7 @@ Current Focus: Enterprise educational ERP systems & cross-platform mobile soluti
 </picture>
 
 <p align="center">
-  <sub>✨ <b>A year of commits rendered in isometric 3D & interactive animations</b> ✨</sub>
+  <sub>✨ <b>Pillars grow proportionally to daily commit volume · Automatically refreshed daily</b> ✨</sub>
 </p>
 
 <details>
