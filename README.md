@@ -43,32 +43,14 @@ Current Focus: Enterprise educational ERP systems & cross-platform mobile soluti
 
 <div align="center">
 
-### 🐍 The Commit Eater · Live Contribution Calendar
-> 💡 **What is this?** This retro arcade animation turns my live GitHub contribution matrix into a game board. Every square represents a day of the year, with green dots indicating active code commits and PRs.
-
-<!-- Calendar Axes Guide -->
-<table>
-  <tr>
-    <td align="center"><b>📅 Timeline Window</b></td>
-    <td align="center"><b>↔️ Months (Left ➔ Right)</b></td>
-    <td align="center"><b>↕️ Days of Week (Top ➔ Bottom)</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>2025 – 2026</b><br/><sub>(Past 365 Days / 52 Weeks)</sub></td>
-    <td align="center"><code>Nov</code> ➔ <code>Dec</code> ➔ <code>Jan</code> ➔ <code>Feb</code> ➔ <code>Mar</code> ➔ <code>Apr</code> ➔ <code>May</code> ➔ <code>Jun</code> ➔ <code>Jul</code> ➔ <code>Aug</code> ➔ <code>Sep</code> ➔ <code>Oct</code> ➔ <code>Nov</code></td>
-    <td align="center"><code>Row 1: Sun</code> · <code>Row 2: Mon</code> · <code>Row 3: Tue</code> · <code>Row 4: Wed</code><br/><code>Row 5: Thu</code> · <code>Row 6: Fri</code> · <code>Row 7: Sat</code></td>
-  </tr>
-</table>
+### 🐍 The Commit Eater · Live 365-Day Contribution Calendar
+> 💡 An interactive arcade animation of my real-time GitHub activity. **Month columns (Nov 2025 ➔ Nov 2026)** and **Day rows (Mon, Wed, Fri)** are displayed directly on the grid as the snake navigates through the timeline eating daily commits!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake.svg?v=2">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake.svg?v=2" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake.svg?v=3">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/arjuntopscore/arjuntopscore/main/dist/github-contribution-grid-snake.svg?v=3" width="100%" />
 </picture>
-
-<p align="center">
-  <sub>🕹️ <b>How to read:</b> Each column is 1 week (left is 12 months ago, right is today) · Each row is a day of the week (Sun to Sat) · The snake crawls across eating each day's commits!</sub>
-</p>
 
 <br/>
 

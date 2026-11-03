@@ -53,6 +53,10 @@ jobs:
                   print("Purged donut chart from:", p)
           '
 
+      - name: Inject Month, Day, and Year labels into snake animation grid
+        run: |
+          python3 scripts/inject_labels.py
+
       - name: Save generated assets
         run: |
           git config user.name github-actions
