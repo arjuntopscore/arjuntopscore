@@ -1,66 +1,95 @@
-# 🌈 Hey, I'm Arjun!
+<div align="center">
 
-### Full Stack Developer · .NET & Flutter Enthusiast
+# 🌈 ARJUN
 
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+### `FULL-STACK DEVELOPER` &nbsp;·&nbsp; `.NET` &nbsp;·&nbsp; `FLUTTER`
 
----
+<img src="https://img.shields.io/badge/BUILDING-ideas_into_apps-7C3AED?style=for-the-badge" alt="Building ideas into apps" />
+<img src="https://img.shields.io/badge/CURRENT_VIBE-ship_%7C_learn_%7C_repeat-06B6D4?style=for-the-badge" alt="Ship, learn, repeat" />
 
-## ✨ About me
+<br />
 
-I enjoy building software across the stack—from mobile apps to web platforms and APIs. I work with **.NET, C#, Flutter, and Dart**, and I’m learning more about **system design and architecture**.
+[![GitHub](https://img.shields.io/badge/Explore_my_code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjuntopscore?tab=repositories)
 
-- 🔭 Building full-stack projects with .NET and Flutter
-- 🌱 Exploring system design and software architecture
-- 🤝 Open to collaborating on interesting projects
-- 💬 Ask me about C#, Dart, Flutter, .NET, and web development
+</div>
 
 ---
 
-## 🚀 Projects
+## 🧊 My GitHub, in 3D
 
-### 🛍️ [Vintage Factory](https://github.com/arjuntopscore/Vintage-Factory)
-A full-stack e-commerce platform with a storefront, admin dashboard, product management, and checkout.
+<div align="center">
 
-**Next.js · React · Express · MongoDB · Tailwind CSS**
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D rainbow GitHub contribution graph" width="100%" />
+
+**A year of commits, rendered in 3D.**
+
+</div>
+
+---
+
+## ⚡ Things I've built and worked on
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎵 [Musicify](https://github.com/arjuntopscore/muicfy)
-A Flutter music player with background playback, playlists, library search, and a polished listening experience.
+A Flutter music player with background playback, playlists, and library search.
 
-**Flutter · Dart · just_audio**
+`Flutter` `Dart` `Audio`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [Vintage Factory](https://github.com/arjuntopscore/Vintage-Factory)
+A full-stack e-commerce platform with a storefront and admin tools.
+
+`Next.js` `Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎧 [JioSaavn API 2](https://github.com/arjuntopscore/jiosaavn-api2)
-A JioSaavn API project.
+A TypeScript project centered around the JioSaavn API.
 
-**TypeScript**
+`TypeScript` `API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Learn Flutter](https://github.com/arjuntopscore/Learn-flutter-)
+Flutter experiments and learning projects.
+
+`Flutter` `Dart`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Technologies
+## 🧰 My toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🤝 Find me on GitHub
+<div align="center">
 
-Explore [my repositories](https://github.com/arjuntopscore?tab=repositories) and projects.
+### 💡 BUILD · BREAK · LEARN · REPEAT
 
----
+*Thanks for visiting my little corner of GitHub.* ✨
 
-<p align="center">
-  <b>Thanks for stopping by! ✨</b>
-</p>
+</div>
