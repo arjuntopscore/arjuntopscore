@@ -41,11 +41,16 @@ jobs:
               with open(p, "r", encoding="utf-8") as f:
                   data = f.read()
               start = data.find("<g transform=\"translate(40, 520)\">")
+              if start == -1:
+                  start = data.find("translate(40, 520)")
+                  if start != -1:
+                      start = data.rfind("<g", 0, start)
               end = data.find("<g><text style=\"font-size: 32px;")
               if start != -1 and end > start:
                   data = data[:start] + data[end:]
                   with open(p, "w", encoding="utf-8") as f:
                       f.write(data)
+                  print("Purged donut chart from:", p)
           '
 
       - name: Save generated assets
